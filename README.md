@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Alan César 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/alancarloscesar@gmail.com))
 
 
 ![Alan César - GitHub status](https://github-readme-stats.vercel.app/api?username=alancarloscesar&show_icons=true&theme=dracula)
@@ -29,7 +28,6 @@
 
 Apaixonado por tecnologia e foco em resolução de problemas com programação.
 
-![Snake animation](https://github.com/alancarloscesar/alancarloscesar/blob/output/github-contribution-grid-snake.svg)
 
 
 
