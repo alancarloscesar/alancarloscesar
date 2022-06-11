@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @alancarloscesar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ### Olá! Eu sou o Alan César 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
@@ -13,7 +7,11 @@
 
 ![Alan César - GitHub status](https://github-readme-stats.vercel.app/api?username=alancarloscesar&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alancarloscesar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<div align="center">
+  <a href="https://github.com/alancarloscesar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancarloscesar&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Tecnologias que utilizo:
 
@@ -27,7 +25,12 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </div><br/>
 
+
+
 Apaixonado por tecnologia e foco em resolução de problemas com programação.
+
+![Snake animation](https://github.com/alancarloscesar/alancarloscesar/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
