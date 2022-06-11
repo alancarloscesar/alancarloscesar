@@ -1,18 +1,16 @@
 ### Olá! Eu sou o Alan César 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/0/alancarloscesar@gmail.com))
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/](https://mail.google.com/mail/u/0/alancarloscesar@gmail.com))
 
 ![Alan César - GitHub status](https://github-readme-stats.vercel.app/api?username=alancarloscesar&show_icons=true&theme=dracula)
 
-
-<div align="center">
+<div>
   <a href="https://github.com/alancarloscesar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancarloscesar&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-### Tecnologias que utilizo:
+### Tecnologias que utilizo - Stack 😀
 
 <div style="display: inline_block"></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
