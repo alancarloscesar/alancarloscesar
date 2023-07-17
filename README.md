@@ -1,4 +1,4 @@
-### Olá! Eu sou o Alan César 😀
+### Olá! Eu sou Alan César 😀
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([https://www.linkedin.com/in/alan-c%C3%A9sar-883998154/](https://mail.google.com/mail/u/0/alancarloscesar@gmail.com))
